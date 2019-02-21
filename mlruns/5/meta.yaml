@@ -1,0 +1,4 @@
+artifact_location: /home/modelmanagement/CAPM/mlruns/5
+experiment_id: 5
+lifecycle_stage: active
+name: FNMA Logarithmic Regression - Y2000Q1-4

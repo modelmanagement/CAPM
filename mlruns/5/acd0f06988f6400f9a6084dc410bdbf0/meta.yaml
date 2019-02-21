@@ -1,0 +1,14 @@
+artifact_uri: /home/modelmanagement/CAPM/mlruns/5/acd0f06988f6400f9a6084dc410bdbf0/artifacts
+end_time: 1550625744821
+entry_point_name: ''
+experiment_id: 5
+lifecycle_stage: active
+name: ''
+run_uuid: acd0f06988f6400f9a6084dc410bdbf0
+source_name: /opt/anaconda/lib/python3.6/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1550625744628
+status: 3
+tags: []
+user_id: modelmanagement

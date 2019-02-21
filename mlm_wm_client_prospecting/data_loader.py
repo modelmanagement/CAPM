@@ -2,7 +2,7 @@ import re
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from consts import STRING_COLUMNS, CATEGORICAL_COLUMNS, DD2_COLUMNS,data_mappings
+from mlm_wm_client_prospecting.consts import STRING_COLUMNS, CATEGORICAL_COLUMNS, DD2_COLUMNS,data_mappings
 
 regex = re.compile(r"\[|\]|<", re.IGNORECASE)
 
